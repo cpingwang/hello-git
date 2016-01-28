@@ -3,4 +3,4 @@ Just hello to Git
 
 edit for it!
 
-Do lovcal changes~
+Do local changes~
